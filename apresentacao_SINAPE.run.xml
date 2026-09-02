@@ -44,10 +44,10 @@
   <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>teste.bcf</file>
+      <file>apresentacao_SINAPE.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>teste.bbl</file>
+      <file>apresentacao_SINAPE.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -69,19 +69,19 @@
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>teste</infile>
+      <infile>apresentacao_SINAPE</infile>
     </cmdline>
     <input>
-      <file>teste.bcf</file>
+      <file>apresentacao_SINAPE.bcf</file>
     </input>
     <output>
-      <file>teste.bbl</file>
+      <file>apresentacao_SINAPE.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>teste.bbl</file>
+      <file>apresentacao_SINAPE.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>teste.bcf</file>
+      <file>apresentacao_SINAPE.bcf</file>
     </requires>
     <requires type="editable">
       <file>referencias.bib</file>

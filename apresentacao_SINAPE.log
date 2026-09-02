@@ -1,8 +1,8 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.12.10)  19 JUL 2026 18:54
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.12.10)  2 SEP 2026 15:33
  restricted system commands enabled.
  file:line:error style messages enabled.
-**/home/uriyuri/SINAPE_2026/teste
-(/home/uriyuri/SINAPE_2026/teste.tex
+**/home/uriyuri/SINAPE_2026/apresentacao_SINAPE
+(/home/uriyuri/SINAPE_2026/apresentacao_SINAPE.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 Lua module: luaotfload 2023-08-31 3.26 Lua based OpenType font support
@@ -698,73 +698,205 @@ Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
  (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
-)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+))
+\sympureletters=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 34.
+ (/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2023/07/08 v1.2f Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup7
+\symboldletters=\mathgroup8
+\symboldsymbols=\mathgroup9
+Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
+Package bm Info: No bold for \U/msa/m/n, using \pmb.
+Package bm Info: No bold for \U/msb/m/n, using \pmb.
+\symboldpureletters=\mathgroup10
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
+) (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen294
+\lightrulewidth=\dimen295
+\cmidrulewidth=\dimen296
+\belowrulesep=\dimen297
+\belowbottomsep=\dimen298
+\aboverulesep=\dimen299
+\abovetopsep=\dimen300
+\cmidrulesep=\dimen301
+\cmidrulekern=\dimen302
+\defaultaddspace=\dimen303
+\@cmidla=\count341
+\@cmidlb=\count342
+\@aboverulesep=\dimen304
+\@belowrulesep=\dimen305
+\@thisruleclass=\count343
+\@lastruleclass=\count344
+\@thisrulewidth=\dimen306
+) (/usr/share/texlive/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count345
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\algocf@hangindent=\skip65
+ (/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count346
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+) (/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\skiptotal=\skip66
+\skiplinenumber=\skip67
+\skiprule=\skip68
+\skiphlne=\skip69
+\skiptext=\skip70
+\skiplength=\skip71
+\algomargin=\skip72
+\skipalgocfslide=\skip73
+\algowidth=\dimen307
+\inoutsize=\dimen308
+\inoutindent=\dimen309
+\interspacetitleruled=\dimen310
+\interspacealgoruled=\dimen311
+\interspacetitleboxruled=\dimen312
+\algocf@ruledwidth=\skip74
+\algocf@inoutbox=\box76
+\algocf@inputbox=\box77
+\AlCapSkip=\skip75
+\AlCapHSkip=\skip76
+\algoskipindent=\skip77
+\algocf@nlbox=\box78
+\algocf@hangingbox=\box79
+\algocf@untilbox=\box80
+\algocf@skipuntil=\skip78
+\algocf@capbox=\box81
+\algocf@lcaptionbox=\skip79
+\algoheightruledefault=\skip80
+\algoheightrule=\skip81
+\algotitleheightruledefault=\skip82
+\algotitleheightrule=\skip83
+\c@algocfline=\count347
+\c@algocfproc=\count348
+\c@algocf=\count349
+\algocf@algoframe=\box82
+\algocf@algobox=\box83
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box84
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen313
+\pgf@nodesepend=\dimen314
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen315
+\pgffor@skip=\dimen316
+\pgffor@stack=\toks50
+\pgffor@toks=\toks51
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count350
+\pgfplotmarksize=\dimen317
+)
+\tikz@lastx=\dimen318
+\tikz@lasty=\dimen319
+\tikz@lastxsaved=\dimen320
+\tikz@lastysaved=\dimen321
+\tikz@lastmovetox=\dimen322
+\tikz@lastmovetoy=\dimen323
+\tikzleveldistance=\dimen324
+\tikzsiblingdistance=\dimen325
+\tikz@figbox=\box85
+\tikz@figbox@bg=\box86
+\tikz@tempbox=\box87
+\tikz@tempbox@bg=\box88
+\tikztreelevel=\count351
+\tikznumberofchildren=\count352
+\tikznumberofcurrentchild=\count353
+\tikz@fig@count=\count354
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count355
+\pgfmatrixcurrentcolumn=\count356
+\pgf@matrix@numberofcolumns=\count357
+)
+\tikz@expandcount=\count358
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
  (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count341
+\lrq@indent=\count359
  (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-)
-\c@tabx@nest=\count342
-\c@listtotal=\count343
-\c@listcount=\count344
-\c@liststart=\count345
-\c@liststop=\count346
-\c@citecount=\count347
-\c@citetotal=\count348
-\c@multicitecount=\count349
-\c@multicitetotal=\count350
-\c@instcount=\count351
-\c@maxnames=\count352
-\c@minnames=\count353
-\c@maxitems=\count354
-\c@minitems=\count355
-\c@citecounter=\count356
-\c@maxcitecounter=\count357
-\c@savedcitecounter=\count358
-\c@uniquelist=\count359
-\c@uniquename=\count360
-\c@refsection=\count361
-\c@refsegment=\count362
-\c@maxextratitle=\count363
-\c@maxextratitleyear=\count364
-\c@maxextraname=\count365
-\c@maxextradate=\count366
-\c@maxextraalpha=\count367
-\c@abbrvpenalty=\count368
-\c@highnamepenalty=\count369
-\c@lownamepenalty=\count370
-\c@maxparens=\count371
-\c@parenlevel=\count372
-\blx@tempcnta=\count373
-\blx@tempcntb=\count374
-\blx@tempcntc=\count375
-\c@blx@maxsection=\count376
-\blx@maxsegment@0=\count377
-\blx@notetype=\count378
-\blx@parenlevel@text=\count379
-\blx@parenlevel@foot=\count380
-\blx@sectionciteorder@0=\count381
-\blx@sectionciteorderinternal@0=\count382
-\blx@entrysetcounter=\count383
-\blx@biblioinstance=\count384
-\labelnumberwidth=\skip65
-\labelalphawidth=\skip66
-\biblabelsep=\skip67
-\bibitemsep=\skip68
-\bibnamesep=\skip69
-\bibinitsep=\skip70
-\bibparsep=\skip71
-\bibhang=\skip72
+))
+\c@tabx@nest=\count360
+\c@listtotal=\count361
+\c@listcount=\count362
+\c@liststart=\count363
+\c@liststop=\count364
+\c@citecount=\count365
+\c@citetotal=\count366
+\c@multicitecount=\count367
+\c@multicitetotal=\count368
+\c@instcount=\count369
+\c@maxnames=\count370
+\c@minnames=\count371
+\c@maxitems=\count372
+\c@minitems=\count373
+\c@citecounter=\count374
+\c@maxcitecounter=\count375
+\c@savedcitecounter=\count376
+\c@uniquelist=\count377
+\c@uniquename=\count378
+\c@refsection=\count379
+\c@refsegment=\count380
+\c@maxextratitle=\count381
+\c@maxextratitleyear=\count382
+\c@maxextraname=\count383
+\c@maxextradate=\count384
+\c@maxextraalpha=\count385
+\c@abbrvpenalty=\count386
+\c@highnamepenalty=\count387
+\c@lownamepenalty=\count388
+\c@maxparens=\count389
+\c@parenlevel=\count390
+\blx@tempcnta=\count391
+\blx@tempcntb=\count392
+\blx@tempcntc=\count393
+\c@blx@maxsection=\count394
+\blx@maxsegment@0=\count395
+\blx@notetype=\count396
+\blx@parenlevel@text=\count397
+\blx@parenlevel@foot=\count398
+\blx@sectionciteorder@0=\count399
+\blx@sectionciteorderinternal@0=\count400
+\blx@entrysetcounter=\count401
+\blx@biblioinstance=\count402
+\labelnumberwidth=\skip84
+\labelalphawidth=\skip85
+\biblabelsep=\skip86
+\bibitemsep=\skip87
+\bibnamesep=\skip88
+\bibinitsep=\skip89
+\bibparsep=\skip90
+\bibhang=\skip91
 \blx@bcfin=\read4
 \blx@bcfout=\write5
 \blx@langwohyphens=\language91
-\c@mincomprange=\count385
-\c@maxcomprange=\count386
-\c@mincompwidth=\count387
+\c@mincomprange=\count403
+\c@maxcomprange=\count404
+\c@mincompwidth=\count405
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
@@ -774,88 +906,88 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'abnt.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count388
-\c@savedafterword=\count389
-\c@annotator=\count390
-\c@savedannotator=\count391
-\c@author=\count392
-\c@savedauthor=\count393
-\c@bookauthor=\count394
-\c@savedbookauthor=\count395
-\c@commentator=\count396
-\c@savedcommentator=\count397
-\c@editor=\count398
-\c@savededitor=\count399
-\c@editora=\count400
-\c@savededitora=\count401
-\c@editorb=\count402
-\c@savededitorb=\count403
-\c@editorc=\count404
-\c@savededitorc=\count405
-\c@foreword=\count406
-\c@savedforeword=\count407
-\c@holder=\count408
-\c@savedholder=\count409
-\c@introduction=\count410
-\c@savedintroduction=\count411
-\c@namea=\count412
-\c@savednamea=\count413
-\c@nameb=\count414
-\c@savednameb=\count415
-\c@namec=\count416
-\c@savednamec=\count417
-\c@translator=\count418
-\c@savedtranslator=\count419
-\c@shortauthor=\count420
-\c@savedshortauthor=\count421
-\c@shorteditor=\count422
-\c@savedshorteditor=\count423
-\c@labelname=\count424
-\c@savedlabelname=\count425
-\c@institution=\count426
-\c@savedinstitution=\count427
-\c@lista=\count428
-\c@savedlista=\count429
-\c@listb=\count430
-\c@savedlistb=\count431
-\c@listc=\count432
-\c@savedlistc=\count433
-\c@listd=\count434
-\c@savedlistd=\count435
-\c@liste=\count436
-\c@savedliste=\count437
-\c@listf=\count438
-\c@savedlistf=\count439
-\c@location=\count440
-\c@savedlocation=\count441
-\c@organization=\count442
-\c@savedorganization=\count443
-\c@origlocation=\count444
-\c@savedoriglocation=\count445
-\c@origpublisher=\count446
-\c@savedorigpublisher=\count447
-\c@publisher=\count448
-\c@savedpublisher=\count449
-\c@language=\count450
-\c@savedlanguage=\count451
-\c@origlanguage=\count452
-\c@savedoriglanguage=\count453
-\c@pageref=\count454
-\c@savedpageref=\count455
-\shorthandwidth=\skip73
-\shortjournalwidth=\skip74
-\shortserieswidth=\skip75
-\shorttitlewidth=\skip76
-\shortauthorwidth=\skip77
-\shorteditorwidth=\skip78
-\locallabelnumberwidth=\skip79
-\locallabelalphawidth=\skip80
-\localshorthandwidth=\skip81
-\localshortjournalwidth=\skip82
-\localshortserieswidth=\skip83
-\localshorttitlewidth=\skip84
-\localshortauthorwidth=\skip85
-\localshorteditorwidth=\skip86
+\c@afterword=\count406
+\c@savedafterword=\count407
+\c@annotator=\count408
+\c@savedannotator=\count409
+\c@author=\count410
+\c@savedauthor=\count411
+\c@bookauthor=\count412
+\c@savedbookauthor=\count413
+\c@commentator=\count414
+\c@savedcommentator=\count415
+\c@editor=\count416
+\c@savededitor=\count417
+\c@editora=\count418
+\c@savededitora=\count419
+\c@editorb=\count420
+\c@savededitorb=\count421
+\c@editorc=\count422
+\c@savededitorc=\count423
+\c@foreword=\count424
+\c@savedforeword=\count425
+\c@holder=\count426
+\c@savedholder=\count427
+\c@introduction=\count428
+\c@savedintroduction=\count429
+\c@namea=\count430
+\c@savednamea=\count431
+\c@nameb=\count432
+\c@savednameb=\count433
+\c@namec=\count434
+\c@savednamec=\count435
+\c@translator=\count436
+\c@savedtranslator=\count437
+\c@shortauthor=\count438
+\c@savedshortauthor=\count439
+\c@shorteditor=\count440
+\c@savedshorteditor=\count441
+\c@labelname=\count442
+\c@savedlabelname=\count443
+\c@institution=\count444
+\c@savedinstitution=\count445
+\c@lista=\count446
+\c@savedlista=\count447
+\c@listb=\count448
+\c@savedlistb=\count449
+\c@listc=\count450
+\c@savedlistc=\count451
+\c@listd=\count452
+\c@savedlistd=\count453
+\c@liste=\count454
+\c@savedliste=\count455
+\c@listf=\count456
+\c@savedlistf=\count457
+\c@location=\count458
+\c@savedlocation=\count459
+\c@organization=\count460
+\c@savedorganization=\count461
+\c@origlocation=\count462
+\c@savedoriglocation=\count463
+\c@origpublisher=\count464
+\c@savedorigpublisher=\count465
+\c@publisher=\count466
+\c@savedpublisher=\count467
+\c@language=\count468
+\c@savedlanguage=\count469
+\c@origlanguage=\count470
+\c@savedoriglanguage=\count471
+\c@pageref=\count472
+\c@savedpageref=\count473
+\shorthandwidth=\skip92
+\shortjournalwidth=\skip93
+\shortserieswidth=\skip94
+\shorttitlewidth=\skip95
+\shortauthorwidth=\skip96
+\shorteditorwidth=\skip97
+\locallabelnumberwidth=\skip98
+\locallabelalphawidth=\skip99
+\localshorthandwidth=\skip100
+\localshortjournalwidth=\skip101
+\localshortserieswidth=\skip102
+\localshorttitlewidth=\skip103
+\localshortauthorwidth=\skip104
+\localshorteditorwidth=\skip105
 Package biblatex Info: Trying to load enhanced support for Unicode engines...
 Package biblatex Info: ... file 'blx-unicode.def' found.
  (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-unicode.def)
@@ -868,19 +1000,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count456
-\c@textcitetotal=\count457
-\c@textcitemaxnames=\count458
-\c@biburlbigbreakpenalty=\count459
-\c@biburlbreakpenalty=\count460
-\c@biburlnumpenalty=\count461
-\c@biburlucpenalty=\count462
-\c@biburllcpenalty=\count463
+\c@textcitecount=\count474
+\c@textcitetotal=\count475
+\c@textcitemaxnames=\count476
+\c@biburlbigbreakpenalty=\count477
+\c@biburlbreakpenalty=\count478
+\c@biburlnumpenalty=\count479
+\c@biburlucpenalty=\count480
+\c@biburllcpenalty=\count481
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count464
+\c@smartand=\count482
 )
 Package biblatex Info: Trying to load bibliography style 'abnt'...
 Package biblatex Info: ... file 'abnt.bbx' found.
@@ -890,9 +1022,9 @@ File: abnt.bbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
 Package: expl3 2024-01-22 L3 programming layer (loader) 
  (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
 File: l3backend-luatex.def 2024-01-04 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count465
+\l__color_backend_stack_int=\count483
 Inserting `l3color' in `luaotfload.parse_color'.
-\l__pdf_internal_box=\box76
+\l__pdf_internal_box=\box89
 ))
 Package: xparse 2023-10-10 L3 Experimental document command parser
 ) (/usr/share/texlive/texmf-dist/tex/latex/xpatch/xpatch.sty
@@ -902,8 +1034,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count466
-\c@bbx:relatedtotal=\count467
+\c@bbx:relatedcount=\count484
+\c@bbx:relatedtotal=\count485
 ))
 Package biblatex Info: Trying to load citation style 'abnt'...
 Package biblatex Info: ... file 'abnt.cbx' found.
@@ -950,41 +1082,37 @@ Package biblatex Info: ... and expl3
  (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 ))
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 28.
-
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'brazil'.
-(./teste.aux)
-\openout1 = teste.aux
+ (./apresentacao_SINAPE.aux)
+\openout1 = apresentacao_SINAPE.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 59.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -1022,70 +1150,83 @@ LaTeX Font Info:    ... okay on input line 33.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count468
-\scratchdimen=\dimen294
-\scratchbox=\box77
-\nofMPsegments=\count469
-\nofMParguments=\count470
-\everyMPshowfont=\toks50
-\MPscratchCnt=\count471
-\MPscratchDim=\dimen295
-\MPnumerator=\count472
-\makeMPintoPDFobject=\count473
-\everyMPtoPDFconversion=\toks51
+\scratchcounter=\count486
+\scratchdimen=\dimen326
+\scratchbox=\box90
+\nofMPsegments=\count487
+\nofMParguments=\count488
+\everyMPshowfont=\toks52
+\MPscratchCnt=\count489
+\MPscratchDim=\dimen327
+\MPnumerator=\count490
+\makeMPintoPDFobject=\count491
+\everyMPtoPDFconversion=\toks53
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 33.
- (./teste.out) (./teste.out)
+Package hyperref Info: Link coloring OFF on input line 59.
+ (./apresentacao_SINAPE.out) (./apresentacao_SINAPE.out)
 \@outlinefile=\write6
 
-\openout6 = teste.out
+\openout6 = apresentacao_SINAPE.out
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 33.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 59.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 33.
-\symnumbers=\mathgroup6
-\sympureletters=\mathgroup7
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/lmr/m/n on input line 33.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 33.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/lmss/b/n on input line 33.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/lmss/b/n on input line 33.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 33.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/lmss/m/n on input line 33.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/lmss/m/n on input line 33.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 33.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/lmss/m/it on input line 33.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/lmss/m/it on input line 33.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 33.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/lmtt/m/n on input line 33.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/lmtt/m/n on input line 33.
-LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 33.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 59.
+\symnumbers=\mathgroup11
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 59.
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `pureletters' in the math version `normal' on input line 59.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
+(Font)                  OT1/mathkerncmss/m/sl --> T1/lmss/m/it on input line 59.
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `pureletters' in the math version `bold' on input line 59.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 33.
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/lmr/b/n on input line 33.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 33.
+(Font)                  OT1/mathkerncmss/bx/sl --> T1/lmss/m/it on input line 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/lmr/m/n on input line 59.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 59.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/lmss/m/n on input line 59.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 33.
+(Font)                  OT1/cmss/bx/n --> T1/lmss/m/n on input line 59.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> T1/lmss/m/it on input line 59.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 33.
+(Font)                  OT1/cmr/bx/it --> T1/lmss/m/it on input line 59.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/lmtt/m/n on input line 59.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 33.
+(Font)                  OT1/cmtt/m/n --> T1/lmtt/m/n on input line 59.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 59.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/cmss/b/n --> T1/lmr/b/n on input line 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 59.
+LaTeX Font Info:    Redeclaring symbol font `boldpureletters' on input line 59.
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `boldpureletters' in the math version `normal' on input line 59.
+LaTeX Font Info:    Overwriting symbol font `boldpureletters' in version `normal'
+(Font)                  OT1/mathkerncmss/bx/sl --> T1/lmss/bx/it on input line 59.
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `boldpureletters' in the math version `bold' on input line 59.
+LaTeX Font Info:    Overwriting symbol font `boldpureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/bx/sl --> T1/lmss/bx/it on input line 59.
  (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
@@ -1170,124 +1311,250 @@ Package biblatex Info: LuaTeX detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
 
-\openout5 = teste.bcf
+\openout5 = apresentacao_SINAPE.bcf
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'teste.bbl' found.
- (./teste.bbl)
-Package biblatex Info: Reference section=0 on input line 33.
-Package biblatex Info: Reference segment=0 on input line 33.
- (./teste.nav)
-Overfull \hbox (341.08922pt too wide) in paragraph at lines 33--33
- [][]  \T1/lmss/m/n/6 ([])  
- []
+Package biblatex Info: ... file 'apresentacao_SINAPE.bbl' found.
+ (./apresentacao_SINAPE.bbl)
+Package biblatex Info: Reference section=0 on input line 59.
+Package biblatex Info: Reference segment=0 on input line 59.
+ (./apresentacao_SINAPE.nav)
+<figuras/logo_ufrgs.png, id=39, 602.4909pt x 502.2765pt>
+File: figuras/logo_ufrgs.png Graphic file (type png)
+<use figuras/logo_ufrgs.png>
+Package luatex.def Info: figuras/logo_ufrgs.png  used on input line 84.
+(luatex.def)             Requested size: 68.25075pt x 56.9055pt.
+ [1
 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<./figuras/logo_ufrgs.png>]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 146.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 146.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 146.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 146.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 146.
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <10.95> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 146.
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <8> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 146.
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <6> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 146.
 
-Overfull \hbox (154.22072pt too wide) in paragraph at lines 33--33
- [][][][]  
- []
-
-
-Overfull \hbox (341.08922pt too wide) in paragraph at lines 39--39
- [][]  \T1/lmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (154.22072pt too wide) in paragraph at lines 39--39
- [][][][]  
- []
-
-
-Overfull \hbox (341.08922pt too wide) has occurred while \output is active
- [][]  \T1/lmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (154.22072pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (341.08922pt too wide) in paragraph at lines 50--50
- [][]  \T1/lmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (154.22072pt too wide) in paragraph at lines 50--50
- [][][][]  
- []
-
-
-Overfull \hbox (341.08922pt too wide) has occurred while \output is active
- [][]  \T1/lmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (154.22072pt too wide) has occurred while \output is active
- [][][][]  
+Overfull \vbox (83.83981pt too high) detected at line 146
  []
 
 [2
 
 ]
-Overfull \hbox (341.08922pt too wide) in paragraph at lines 57--57
- [][]  \T1/lmss/m/n/6 ([])  
- []
+LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10.95> not available
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 227.
+LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <8> not available
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 227.
+LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <6> not available
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 227.
 
-
-Overfull \hbox (154.22072pt too wide) in paragraph at lines 57--57
- [][][][]  
- []
-
-
-Overfull \hbox (341.08922pt too wide) has occurred while \output is active
- [][]  \T1/lmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (154.22072pt too wide) has occurred while \output is active
- [][][][]  
+Overfull \vbox (67.84196pt too high) detected at line 227
  []
 
 [3
 
+] [4
+
+] [5
+
+]
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 308.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 308.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 308.
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <10> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 308.
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <7> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 308.
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <5> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 308.
+LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10> not available
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 308.
+LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <7> not available
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 308.
+LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <5> not available
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 308.
+ [6
+
+]
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10.95> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 416.
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <8> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 416.
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <6> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 416.
+LaTeX Font Info:    Font shape `T1/lmss/b/it' in size <10.95> not available
+(Font)              Font shape `T1/lmss/bx/it' tried instead on input line 416.
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <10.95> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 416.
+LaTeX Font Info:    Font shape `T1/lmss/b/it' in size <8> not available
+(Font)              Font shape `T1/lmss/bx/it' tried instead on input line 416.
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <8> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 416.
+LaTeX Font Info:    Font shape `T1/lmss/b/it' in size <6> not available
+(Font)              Font shape `T1/lmss/bx/it' tried instead on input line 416.
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <6> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 416.
+ [7
+
+] [8
+
+]
+<figuras/nngpxgp.png, id=411, 887.4756pt x 570.4512pt>
+File: figuras/nngpxgp.png Graphic file (type png)
+<use figuras/nngpxgp.png>
+Package luatex.def Info: figuras/nngpxgp.png  used on input line 456.
+(luatex.def)             Requested size: 239.6057pt x 154.00647pt.
+
+Overfull \vbox (27.13014pt too high) detected at line 456
+ []
+
+[9
+
+<./figuras/nngpxgp.png>] [10
+
+] [11
+
+] [12
+
+] [13
+
+] [14
+
+]
+<figuras/eqm_cen.png, id=643, 505.89pt x 505.89pt>
+File: figuras/eqm_cen.png Graphic file (type png)
+<use figuras/eqm_cen.png>
+Package luatex.def Info: figuras/eqm_cen.png  used on input line 640.
+(luatex.def)             Requested size: 239.6057pt x 239.6055pt.
+
+Overfull \vbox (29.60115pt too high) detected at line 640
+ []
+
+[15
+
+<./figuras/eqm_cen.png>] [16
+
+]
+<figuras/EQM_Extremos.png, id=708, 780.66656pt x 570.63188pt>
+File: figuras/EQM_Extremos.png Graphic file (type png)
+<use figuras/EQM_Extremos.png>
+Package luatex.def Info: figuras/EQM_Extremos.png  used on input line 704.
+(luatex.def)             Requested size: 164.30031pt x 120.08873pt.
+ [17
+
+<./figuras/EQM_Extremos.png>] [18
+
+]
+<figuras/mapa_ph.png, id=770, 578.16pt x 361.35pt>
+File: figuras/mapa_ph.png Graphic file (type png)
+<use figuras/mapa_ph.png>
+Package luatex.def Info: figuras/mapa_ph.png  used on input line 741.
+(luatex.def)             Requested size: 150.6108pt x 94.13074pt.
+ [19
+
+<./figuras/mapa_ph.png>]
+<figuras/hist_lado3.jpg, id=802, 2005.4925pt x 1129.21875pt>
+File: figuras/hist_lado3.jpg Graphic file (type jpg)
+<use figuras/hist_lado3.jpg>
+Package luatex.def Info: figuras/hist_lado3.jpg  used on input line 754.
+(luatex.def)             Requested size: 342.29536pt x 192.72278pt.
+ [20
+
+<./figuras/hist_lado3.jpg>]
+<figuras/EQM_triples.png, id=833, 950.80219pt x 248.42813pt>
+File: figuras/EQM_triples.png Graphic file (type png)
+<use figuras/EQM_triples.png>
+Package luatex.def Info: figuras/EQM_triples.png  used on input line 780.
+(luatex.def)             Requested size: 342.29536pt x 89.43405pt.
+
+Overfull \vbox (35.7178pt too high) detected at line 780
+ []
+
+[21
+
+<./figuras/EQM_triples.png>]
+<figuras/Predicao_bayes.png, id=867, 1164.9924pt x 714.7503pt>
+File: figuras/Predicao_bayes.png Graphic file (type png)
+<use figuras/Predicao_bayes.png>
+Package luatex.def Info: figuras/Predicao_bayes.png  used on input line 789.
+(luatex.def)             Requested size: 342.30101pt x 210.00974pt.
+
+Overfull \vbox (12.74043pt too high) detected at line 789
+ []
+
+[22
+
+<./figuras/Predicao_bayes.png>]
+<figuras/residuos_INLA.png, id=899, 853.5087pt x 714.7503pt>
+File: figuras/residuos_INLA.png Graphic file (type png)
+<use figuras/residuos_INLA.png>
+Package luatex.def Info: figuras/residuos_INLA.png  used on input line 798.
+(luatex.def)             Requested size: 256.71878pt x 214.98296pt.
+
+Overfull \vbox (4.11365pt too high) detected at line 798
+ []
+
+[23
+
+<./figuras/residuos_INLA.png>] [24
+
+]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 846.
+ (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [25
+
 ]
 \tf@nav=\write7
 
-\openout7 = teste.nav
+\openout7 = apresentacao_SINAPE.nav
 \tf@toc=\write8
 
-\openout8 = teste.toc
+\openout8 = apresentacao_SINAPE.toc
 \tf@snm=\write9
 
-\openout9 = teste.snm
- (./teste.aux)
+\openout9 = apresentacao_SINAPE.snm
+ (./apresentacao_SINAPE.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
-Package rerunfilecheck Info: File `teste.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package logreq Info: Writing requests to 'teste.run.xml'.
+Package rerunfilecheck Info: File `apresentacao_SINAPE.out' has not changed.
+(rerunfilecheck)             Checksum: 5C645B4635D4E6EB70341A3A3C27D445;308.
+Package logreq Info: Writing requests to 'apresentacao_SINAPE.run.xml'.
 
-\openout1 = teste.run.xml
+\openout1 = apresentacao_SINAPE.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 31715 strings out of 476553
+ 36563 strings out of 476553
  125081,1977958 words of node,token memory allocated
- 2488 words of node memory still in use:
-   39 hlist, 11 vlist, 9 rule, 5 disc, 6 local_par, 70 glue, 11 kern, 17 penalty, 34 glyph, 151 attribute, 72 glue_spec, 78 attribute_list, 4 write, 34 pdf_colorstack nodes
-   avail lists: 1:2,2:1176,3:524,4:347,5:226,6:76,7:3112,8:2,9:689,10:8,11:336
- 52767 multiletter control sequences out of 65536+600000
- 21 fonts using 1268519 bytes
- 128i,16n,116p,699b,4315s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss8.pfb>
-Output written on teste.pdf (3 pages, 69708 bytes).
+ 5477 words of node memory still in use:
+   76 hlist, 11 vlist, 14 rule, 23 disc, 10 local_par, 140 glue, 17 kern, 22 penalty, 181 glyph, 352 attribute, 88 glue_spec, 178 attribute_list, 4 write, 39 pdf_literal, 1 pdf_start_link, 1 pdf_end_link, 1 pdf_action, 36 pdf_colorstack nodes
+   avail lists: 1:2,2:3337,3:1488,4:358,5:314,6:81,7:5384,8:54,9:1470,10:14,11:277
+ 57427 multiletter control sequences out of 65536+600000
+ 105 fonts using 7046111 bytes
+ 128i,16n,116p,717b,4315s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss8.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbo10.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso8.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on apresentacao_SINAPE.pdf (25 pages, 3896243 bytes).
 
-PDF statistics: 131 PDF objects out of 1000 (max. 8388607)
- 104 compressed objects within 2 object streams
- 7 named destinations out of 1000 (max. 131072)
- 86 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 1068 PDF objects out of 1200 (max. 8388607)
+ 857 compressed objects within 9 object streams
+ 59 named destinations out of 1000 (max. 131072)
+ 920 words of extra memory for PDF output out of 10000 (max. 100000000)
 
