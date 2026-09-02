@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.12.10)  2 SEP 2026 15:33
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.12.10)  2 SEP 2026 20:02
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/home/uriyuri/SINAPE_2026/apresentacao_SINAPE
@@ -1086,9 +1086,10 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'brazil'.
- (./apresentacao_SINAPE.aux)
-\openout1 = apresentacao_SINAPE.aux
 
+No file apresentacao_SINAPE.aux.
+
+\openout1 = apresentacao_SINAPE.aux
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
@@ -1099,7 +1100,7 @@ LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 59.
- (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 59.
@@ -1168,7 +1169,6 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 59.
- (./apresentacao_SINAPE.out) (./apresentacao_SINAPE.out)
 \@outlinefile=\write6
 
 \openout6 = apresentacao_SINAPE.out
@@ -1318,7 +1318,7 @@ Package biblatex Info: ... file 'apresentacao_SINAPE.bbl' found.
 Package biblatex Info: Reference section=0 on input line 59.
 Package biblatex Info: Reference segment=0 on input line 59.
  (./apresentacao_SINAPE.nav)
-<figuras/logo_ufrgs.png, id=39, 602.4909pt x 502.2765pt>
+<figuras/logo_ufrgs.png, id=27, 602.4909pt x 502.2765pt>
 File: figuras/logo_ufrgs.png Graphic file (type png)
 <use figuras/logo_ufrgs.png>
 Package luatex.def Info: figuras/logo_ufrgs.png  used on input line 84.
@@ -1367,60 +1367,156 @@ Overfull \vbox (67.84196pt too high) detected at line 227
 
 ] [4
 
-] [5
+]
+
+/home/uriyuri/SINAPE_2026/apresentacao_SINAPE.tex:290: LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.290     \end{frame}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/home/uriyuri/SINAPE_2026/apresentacao_SINAPE.tex:290: Missing $ inserted.
+<inserted text> 
+$
+l.290     \end{frame}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+/home/uriyuri/SINAPE_2026/apresentacao_SINAPE.tex:290: Display math should end with $$.
+<to be read again> 
+\endgroup 
+l.290     \end{frame}
+                   
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+
+/home/uriyuri/SINAPE_2026/apresentacao_SINAPE.tex:290: LaTeX Error: \begin{beamer@frameslide} on input line 290 ended by \end{beamer@framepauses}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.290     \end{frame}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/home/uriyuri/SINAPE_2026/apresentacao_SINAPE.tex:290: Missing } inserted.
+<inserted text> 
+}
+l.290     \end{frame}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+/home/uriyuri/SINAPE_2026/apresentacao_SINAPE.tex:290: Too many }'s.
+\endbeamer@frameslide ...amer@framepauses}\egroup 
+                                                  \ifx \beamer@frametitle \@...
+l.290     \end{frame}
+                   
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+/home/uriyuri/SINAPE_2026/apresentacao_SINAPE.tex:290: Undefined control sequence.
+\endbeamer@frameslide ...box \else \beamer@zoomer 
+                                                  \fi \beamer@undolabels \be...
+l.290     \end{frame}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/home/uriyuri/SINAPE_2026/apresentacao_SINAPE.tex:290: LaTeX Error: \begin{document} ended by \end{beamer@frameslide}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.290     \end{frame}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/home/uriyuri/SINAPE_2026/apresentacao_SINAPE.tex:290: Extra \endgroup.
+<recently read> \endgroup 
+          
+l.290     \end{frame}
+                   
+Things are pretty mixed up, but I think the worst is over.
+
+[5
 
 ]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 308.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 306.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 308.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 306.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 308.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 306.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <10> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 308.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 306.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <7> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 308.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 306.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <5> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 308.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 306.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 308.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 306.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <7> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 308.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 306.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <5> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 308.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 306.
  [6
 
 ]
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10.95> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 416.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 414.
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <8> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 416.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 414.
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <6> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 416.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 414.
 LaTeX Font Info:    Font shape `T1/lmss/b/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/bx/it' tried instead on input line 416.
+(Font)              Font shape `T1/lmss/bx/it' tried instead on input line 414.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 416.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 414.
 LaTeX Font Info:    Font shape `T1/lmss/b/it' in size <8> not available
-(Font)              Font shape `T1/lmss/bx/it' tried instead on input line 416.
+(Font)              Font shape `T1/lmss/bx/it' tried instead on input line 414.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <8> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 416.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 414.
 LaTeX Font Info:    Font shape `T1/lmss/b/it' in size <6> not available
-(Font)              Font shape `T1/lmss/bx/it' tried instead on input line 416.
+(Font)              Font shape `T1/lmss/bx/it' tried instead on input line 414.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <6> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 416.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 414.
  [7
 
 ] [8
 
 ]
-<figuras/nngpxgp.png, id=411, 887.4756pt x 570.4512pt>
+<figuras/nngpxgp.png, id=400, 887.4756pt x 570.4512pt>
 File: figuras/nngpxgp.png Graphic file (type png)
 <use figuras/nngpxgp.png>
-Package luatex.def Info: figuras/nngpxgp.png  used on input line 456.
+Package luatex.def Info: figuras/nngpxgp.png  used on input line 454.
 (luatex.def)             Requested size: 239.6057pt x 154.00647pt.
 
-Overfull \vbox (27.13014pt too high) detected at line 456
+Overfull \vbox (27.13014pt too high) detected at line 454
  []
 
 [9
@@ -1436,13 +1532,13 @@ Overfull \vbox (27.13014pt too high) detected at line 456
 ] [14
 
 ]
-<figuras/eqm_cen.png, id=643, 505.89pt x 505.89pt>
+<figuras/eqm_cen.png, id=633, 505.89pt x 505.89pt>
 File: figuras/eqm_cen.png Graphic file (type png)
 <use figuras/eqm_cen.png>
-Package luatex.def Info: figuras/eqm_cen.png  used on input line 640.
+Package luatex.def Info: figuras/eqm_cen.png  used on input line 638.
 (luatex.def)             Requested size: 239.6057pt x 239.6055pt.
 
-Overfull \vbox (29.60115pt too high) detected at line 640
+Overfull \vbox (29.60115pt too high) detected at line 638
  []
 
 [15
@@ -1450,63 +1546,63 @@ Overfull \vbox (29.60115pt too high) detected at line 640
 <./figuras/eqm_cen.png>] [16
 
 ]
-<figuras/EQM_Extremos.png, id=708, 780.66656pt x 570.63188pt>
+<figuras/EQM_Extremos.png, id=698, 780.66656pt x 570.63188pt>
 File: figuras/EQM_Extremos.png Graphic file (type png)
 <use figuras/EQM_Extremos.png>
-Package luatex.def Info: figuras/EQM_Extremos.png  used on input line 704.
+Package luatex.def Info: figuras/EQM_Extremos.png  used on input line 702.
 (luatex.def)             Requested size: 164.30031pt x 120.08873pt.
  [17
 
 <./figuras/EQM_Extremos.png>] [18
 
 ]
-<figuras/mapa_ph.png, id=770, 578.16pt x 361.35pt>
+<figuras/mapa_ph.png, id=760, 578.16pt x 361.35pt>
 File: figuras/mapa_ph.png Graphic file (type png)
 <use figuras/mapa_ph.png>
-Package luatex.def Info: figuras/mapa_ph.png  used on input line 741.
+Package luatex.def Info: figuras/mapa_ph.png  used on input line 739.
 (luatex.def)             Requested size: 150.6108pt x 94.13074pt.
  [19
 
 <./figuras/mapa_ph.png>]
-<figuras/hist_lado3.jpg, id=802, 2005.4925pt x 1129.21875pt>
+<figuras/hist_lado3.jpg, id=791, 2005.4925pt x 1129.21875pt>
 File: figuras/hist_lado3.jpg Graphic file (type jpg)
 <use figuras/hist_lado3.jpg>
-Package luatex.def Info: figuras/hist_lado3.jpg  used on input line 754.
+Package luatex.def Info: figuras/hist_lado3.jpg  used on input line 752.
 (luatex.def)             Requested size: 342.29536pt x 192.72278pt.
  [20
 
 <./figuras/hist_lado3.jpg>]
-<figuras/EQM_triples.png, id=833, 950.80219pt x 248.42813pt>
+<figuras/EQM_triples.png, id=823, 950.80219pt x 248.42813pt>
 File: figuras/EQM_triples.png Graphic file (type png)
 <use figuras/EQM_triples.png>
-Package luatex.def Info: figuras/EQM_triples.png  used on input line 780.
+Package luatex.def Info: figuras/EQM_triples.png  used on input line 778.
 (luatex.def)             Requested size: 342.29536pt x 89.43405pt.
 
-Overfull \vbox (35.7178pt too high) detected at line 780
+Overfull \vbox (35.7178pt too high) detected at line 778
  []
 
 [21
 
 <./figuras/EQM_triples.png>]
-<figuras/Predicao_bayes.png, id=867, 1164.9924pt x 714.7503pt>
+<figuras/Predicao_bayes.png, id=857, 1164.9924pt x 714.7503pt>
 File: figuras/Predicao_bayes.png Graphic file (type png)
 <use figuras/Predicao_bayes.png>
-Package luatex.def Info: figuras/Predicao_bayes.png  used on input line 789.
+Package luatex.def Info: figuras/Predicao_bayes.png  used on input line 787.
 (luatex.def)             Requested size: 342.30101pt x 210.00974pt.
 
-Overfull \vbox (12.74043pt too high) detected at line 789
+Overfull \vbox (12.74043pt too high) detected at line 787
  []
 
 [22
 
 <./figuras/Predicao_bayes.png>]
-<figuras/residuos_INLA.png, id=899, 853.5087pt x 714.7503pt>
+<figuras/residuos_INLA.png, id=889, 853.5087pt x 714.7503pt>
 File: figuras/residuos_INLA.png Graphic file (type png)
 <use figuras/residuos_INLA.png>
-Package luatex.def Info: figuras/residuos_INLA.png  used on input line 798.
+Package luatex.def Info: figuras/residuos_INLA.png  used on input line 796.
 (luatex.def)             Requested size: 256.71878pt x 214.98296pt.
 
-Overfull \vbox (4.11365pt too high) detected at line 798
+Overfull \vbox (4.11365pt too high) detected at line 796
  []
 
 [23
@@ -1514,7 +1610,7 @@ Overfull \vbox (4.11365pt too high) detected at line 798
 <./figuras/residuos_INLA.png>] [24
 
 ]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 846.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 844.
  (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [25
@@ -1534,27 +1630,45 @@ File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
-Package rerunfilecheck Info: File `apresentacao_SINAPE.out' has not changed.
-(rerunfilecheck)             Checksum: 5C645B4635D4E6EB70341A3A3C27D445;308.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `apresentacao_SINAPE.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `apresentacao_SINAPE.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  5C645B4635D4E6EB70341A3A3C27D445;308.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                apresentacao_SINAPE
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'apresentacao_SINAPE.run.xml'.
 
 \openout1 = apresentacao_SINAPE.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 36563 strings out of 476553
+ 36542 strings out of 476553
  125081,1977958 words of node,token memory allocated
- 5477 words of node memory still in use:
-   76 hlist, 11 vlist, 14 rule, 23 disc, 10 local_par, 140 glue, 17 kern, 22 penalty, 181 glyph, 352 attribute, 88 glue_spec, 178 attribute_list, 4 write, 39 pdf_literal, 1 pdf_start_link, 1 pdf_end_link, 1 pdf_action, 36 pdf_colorstack nodes
-   avail lists: 1:2,2:3337,3:1488,4:358,5:314,6:81,7:5384,8:54,9:1470,10:14,11:277
- 57427 multiletter control sequences out of 65536+600000
+ 6261 words of node memory still in use:
+   85 hlist, 15 vlist, 17 rule, 29 disc, 12 local_par, 164 glue, 21 kern, 24 penalty, 207 glyph, 398 attribute, 88 glue_spec, 201 attribute_list, 4 write, 39 pdf_literal, 1 pdf_start_link, 1 pdf_end_link, 1 pdf_action, 48 pdf_colorstack nodes
+   avail lists: 1:2,2:3268,3:1486,4:346,5:314,6:79,7:5384,8:54,9:1470,10:14,11:271
+ 57421 multiletter control sequences out of 65536+600000
  105 fonts using 7046111 bytes
  128i,16n,116p,717b,4315s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss8.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbo10.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso8.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on apresentacao_SINAPE.pdf (25 pages, 3896243 bytes).
+Output written on apresentacao_SINAPE.pdf (25 pages, 3895319 bytes).
 
-PDF statistics: 1068 PDF objects out of 1200 (max. 8388607)
- 857 compressed objects within 9 object streams
+PDF statistics: 1058 PDF objects out of 1200 (max. 8388607)
+ 847 compressed objects within 9 object streams
  59 named destinations out of 1000 (max. 131072)
- 920 words of extra memory for PDF output out of 10000 (max. 100000000)
+ 896 words of extra memory for PDF output out of 10000 (max. 100000000)
 

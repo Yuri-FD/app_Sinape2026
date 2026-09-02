@@ -244,7 +244,7 @@
             \item Média: \(E[\mathbf{Y}] = \mathbf{X}\boldsymbol{\beta}\);
             \item Matriz de covariância: \(\boldsymbol{\Sigma}\);
             \item Dependência espacial modelada por \(C(\mathbf{h})\);
-            \item Covariância depende do vetor de separação \(\mathbf{h}\) (estacionariedade) e/ou da distância \(\|\mathbf{h}\|\) (isotropia);
+            \item Covariância depende do vetor de separação \(\mathbf{h}\) (Segunda Ordem) e/ou da distância \(\|\mathbf{h}\|\) (Instrinseca);
             \item O item anterior depende do tipo de estacionariedade assumida.
         \end{itemize}
 
@@ -271,8 +271,6 @@
 \end{frame}
 
     \begin{frame}{Modelo Geoestatístico}
-        \begin{equation*}
-        Y(\bm{s}) \sim \mathcal{GP}\left(\mathbf{X}\boldsymbol{\beta}, \; C(h; \bm{\theta}) + \tau^2 \mathbb{I}(h=0)\right)
         \end{equation*}
         Usando o modelo geoestatístico:
         \begin{equation*}
@@ -386,7 +384,7 @@ y(\mathbf{s}) &= f\!\left(X(\mathbf{s})\right)
               + w(\mathbf{s})
               + \epsilon(\mathbf{s}), \\
 w(\cdot) &\sim GP\!\left(0,\Sigma(\cdot,\cdot)\right), \\
-\epsilon(\cdot) &\sim GP\!\left(0,\tau^2\mathbf{I}\right).
+\epsilon(\cdot) &\sim \mathcal{N}(0, \tau^2).
 \end{aligned}
 \end{equation*}
 
